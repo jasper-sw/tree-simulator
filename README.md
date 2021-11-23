@@ -4,4 +4,9 @@ This is a fun project I created using pygame this last semester to help create v
 I created this tool to make the process easier and to allow us to easily produce digital images of our vertex trees. I was able to use this on my homework and even shared it in the class discord and a number of other students used it to create graphs for their homework too.
 
 # Running the simulator
-This can either be run in a python IDE of your choice, so long as you install pygame, or by using the executable located in the "executable" folder which I was able to create from the python file using a command line tool called PyInstaller.
+ - This can either be run in a python IDE of your choice, so long as you install pygame, or by using the executable located in the "executable" folder which I was able to create from the python file using a command line tool called PyInstaller.
+ - Once the simulator is running you can left click to place an element, right click to remove an element, and use the buttons to change modes
+
+# Example screenshot
+
+![screenshot](https://github.com/jasper-sw/tree-simulator/blob/master/example-screenshot.jpg?raw=true)
